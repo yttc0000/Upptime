@@ -3,8 +3,8 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: PORTAL
+    url: https://portal.ncu.edu.tw/
   - name: YOUYUBE
     url: https://www.youtube.com/
   - name: NCU
