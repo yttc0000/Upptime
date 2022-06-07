@@ -11,8 +11,8 @@ sites:
     url: https://www.ncu.edu.tw/tw/
   - name: ncu library
     url: https://www.lib.ncu.edu.tw/
-  
-  url:https://www.lib.ncu.edu.tw/
+  - name: NET
+    url: https://www.net-fashion.net/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
